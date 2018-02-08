@@ -11,5 +11,5 @@ Here's a quick guide on how to self-host TTGProtect:
 ## Contributing
 You sure can! Here are a few guidlines though:
 - It must follow the same coding style as ours
-- It must be apropiate
+- It must be appropiate
 - You must describe what you changes in the PR for the Devs to know wether to merge or not
