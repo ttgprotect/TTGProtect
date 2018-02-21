@@ -1,0 +1,9 @@
+{
+    "token": "token here",
+    "version": "7.3",
+    "branch": "master",
+    "prefix": "-",
+    "maintainers": ["bot", "maintainers", "here"],
+    "creator": "your tag here",
+    "fuckers": "if people are being annoying, add them here"
+}
