@@ -1,1 +1,1 @@
-// Upcoming feature, to be released in version 7 (probs)
+// I'm a lazy moron, so no webserver 4 u!
