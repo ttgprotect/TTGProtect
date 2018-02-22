@@ -8,8 +8,8 @@ Here's a quick guide on how to self-host TTGProtect:
 3. Run the bot.js file! All should go well :)
 
 ## Web-Dashboard
-The web-dashboard files can be found [here](https://github.com/ttgprotect/TTGProtect-WebDashboard)
-\nYou will need to run these files in the same directory as the bot's files, more info at the repo
+The web-dashboard files can be found [here.](https://github.com/ttgprotect/TTGProtect-WebDashboard)
+You will need to run these files in the same directory as the bot's files, more info at the repo
 
 ## Contributing
 You sure can! Here are a few guidlines though:
