@@ -1,4 +1,4 @@
-# TTGProtect [![Version Branch](https://img.shields.io/badge/branch-master-green.svg)](https://github.com/ttgprotect/ttgprotect)
+# TTGProtect [![Version Branch](https://img.shields.io/badge/branch-development-red.svg)](https://github.com/ttgprotect/ttgprotect)
 The discord moderation bot for everyone, open-source
 
 ## Self-Hosting
