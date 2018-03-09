@@ -1,9 +1,10 @@
 {
-    "token": "token here",
+    "token": "",
     "version": "7.3",
     "branch": "master",
     "prefix": "-",
-    "maintainers": ["bot", "maintainers", "here"],
-    "creator": "your tag here",
-    "fuckers": "if people are being annoying, add them here"
+    "hosting_port": "80",
+    "maintainers": ["maintainers", "go", "here"],
+    "creator": "Ken#4234",
+    "fuckers": ""
 }

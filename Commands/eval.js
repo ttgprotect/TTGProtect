@@ -24,13 +24,7 @@ module.exports = async(bot, msg, args) => {
             .setColor(0xffa500)
           return msg.channel.send(no);
         }
-        if(msg.content.includes(`child_process`)) {
-          const no = new Discord.RichEmbed()
-            .setImage(`https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif`)
-            .setColor(0xffa500)
-          return msg.channel.send(no);
-        }
-        if(msg.content.includes(`config`)) {
+        if(code === `config`) {
           const no = new Discord.RichEmbed()
             .setImage(`https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif`)
             .setColor(0xffa500)
