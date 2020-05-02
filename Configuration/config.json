@@ -1,8 +1,8 @@
 {
-    "token": "",
+    "token": "NzA1OTI0OTM1NzEzMDMwMjI0.Xqy4-A.WrOjktvf0eyU-SJZrj8mV_i9fFw",
     "version": "7.3",
     "branch": "master",
-    "prefix": "-",
+    "prefix": "!",
     "hosting_port": "80",
     "maintainers": ["maintainers", "go", "here"],
     "creator": "Ken#4234",
